@@ -38,6 +38,6 @@
   <h3>📫 Contáctame</h3>
   
   [![GitHub](https://img.shields.io/badge/-HANNIBAL_THO-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HANNIBAL-THO/)](https://github.com/HANNIBAL-THO/)
-  [![Discord](https://img.shields.io/badge/-Únete_al_Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/tfRuSC52Da)](https://discord.gg/tfRuSC52Da)
+  [![Discord](https://img.shields.io/badge/-Únete_al_Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/uPESr5v7yQ)](https://discord.gg/tfRuSC52Da)
   [![YouTube](https://img.shields.io/badge/-TODO_HACK_OFFICIAL-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@TODO-HACK-OFFICIAL)](https://www.youtube.com/@TODO-HACK-OFFICIAL)
 </div>
